@@ -1,0 +1,4 @@
+cycle_code,cycle_name,cycle_key
+PRIM,Primary,1
+LSEC,Lower Secondary,2
+USEC,Upper Secondary,3

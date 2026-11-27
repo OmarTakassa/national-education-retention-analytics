@@ -1,0 +1,73 @@
+academic_year,aref_code,aref_name,macro_zone,total_enrolled,total_dropouts,weighted_dropout_pct,yoy_dropout_delta_pct,disparity_priority_rank,avg_exam_pass_pct
+2025-2026,AREF-08,Draa-Tafilalet,Southeast,322441,22030,6.83,0.15,1,83.14
+2025-2026,AREF-07,Marrakech-Safi,Central-South,1175432,69397,5.9,-0.03,2,85.85
+2025-2026,AREF-05,Beni Mellal-Khenifra,Central,833559,46704,5.6,-0.03,3,86.73
+2025-2026,AREF-01,Tanger-Tetouan-Al Hoceima,North,496547,24843,5.0,0.07,4,86.74
+2025-2026,AREF-03,Fes-Meknes,Central-North,1321297,57487,4.35,-0.2,5,87.69
+2025-2026,AREF-02,Oriental,Northeast,283696,12251,4.32,-0.24,6,86.91
+2025-2026,AREF-09,Souss-Massa,South-Central,888211,38214,4.3,-0.19,7,89.33
+2025-2026,AREF-10,Guelmim-Oued Noun,South,653499,24565,3.76,-0.18,8,90.61
+2025-2026,AREF-04,Rabat-Sale-Kenitra,Northwest,897599,24949,2.78,-0.39,9,91.55
+2025-2026,AREF-06,Casablanca-Settat,Coastal-Central,599068,14574,2.43,-0.03,10,91.82
+2025-2026,AREF-11,Laayoune-Sakia El Hamra,Sahara-North,845662,18427,2.18,-0.03,11,93.44
+2025-2026,AREF-12,Dakhla-Oued Ed-Dahab,Sahara-South,652227,13810,2.12,-0.09,12,93.6
+2024-2025,AREF-08,Draa-Tafilalet,Southeast,553045,36944,6.68,0.11,1,80.75
+2024-2025,AREF-07,Marrakech-Safi,Central-South,771904,45750,5.93,0.04,2,82.53
+2024-2025,AREF-05,Beni Mellal-Khenifra,Central,952489,53607,5.63,-0.11,3,84.53
+2024-2025,AREF-01,Tanger-Tetouan-Al Hoceima,North,882883,43539,4.93,-0.28,4,86.73
+2024-2025,AREF-02,Oriental,Northeast,625096,28476,4.56,-0.39,5,86.6
+2024-2025,AREF-03,Fes-Meknes,Central-North,1129751,51363,4.55,-0.33,6,85.72
+2024-2025,AREF-09,Souss-Massa,South-Central,587526,26369,4.49,-0.26,7,84.98
+2024-2025,AREF-10,Guelmim-Oued Noun,South,464419,18298,3.94,-0.06,8,88.16
+2024-2025,AREF-04,Rabat-Sale-Kenitra,Northwest,504494,16010,3.17,0.03,9,88.46
+2024-2025,AREF-06,Casablanca-Settat,Coastal-Central,1298562,31905,2.46,-0.32,10,91.96
+2024-2025,AREF-11,Laayoune-Sakia El Hamra,Sahara-North,831641,18363,2.21,0.11,11,90.08
+2024-2025,AREF-12,Dakhla-Oued Ed-Dahab,Sahara-South,964630,21344,2.21,-0.25,11,92.76
+2023-2024,AREF-08,Draa-Tafilalet,Southeast,552377,36275,6.57,-0.53,1,81.93
+2023-2024,AREF-07,Marrakech-Safi,Central-South,350092,20632,5.89,-0.37,2,81.41
+2023-2024,AREF-05,Beni Mellal-Khenifra,Central,944053,54234,5.74,-0.5,3,81.06
+2023-2024,AREF-01,Tanger-Tetouan-Al Hoceima,North,1402547,73017,5.21,0.0,4,82.98
+2023-2024,AREF-02,Oriental,Northeast,772723,38227,4.95,0.02,5,84.96
+2023-2024,AREF-03,Fes-Meknes,Central-North,1244368,60764,4.88,-0.3,6,85.39
+2023-2024,AREF-09,Souss-Massa,South-Central,458966,21812,4.75,-0.1,7,83.85
+2023-2024,AREF-10,Guelmim-Oued Noun,South,162227,6493,4.0,-0.02,8,86.85
+2023-2024,AREF-04,Rabat-Sale-Kenitra,Northwest,558790,17546,3.14,0.0,9,89.22
+2023-2024,AREF-06,Casablanca-Settat,Coastal-Central,280251,7789,2.78,0.24,10,91.78
+2023-2024,AREF-12,Dakhla-Oued Ed-Dahab,Sahara-South,950584,23424,2.46,0.01,11,91.37
+2023-2024,AREF-11,Laayoune-Sakia El Hamra,Sahara-North,308143,6481,2.1,-0.23,12,91.09
+2022-2023,AREF-08,Draa-Tafilalet,Southeast,402697,28586,7.1,0.0,1,79.84
+2022-2023,AREF-07,Marrakech-Safi,Central-South,1003385,62782,6.26,-0.21,2,80.62
+2022-2023,AREF-05,Beni Mellal-Khenifra,Central,342991,21398,6.24,-0.11,3,83.66
+2022-2023,AREF-01,Tanger-Tetouan-Al Hoceima,North,492962,25692,5.21,-0.39,4,83.33
+2022-2023,AREF-03,Fes-Meknes,Central-North,977544,50639,5.18,-0.05,5,83.36
+2022-2023,AREF-02,Oriental,Northeast,890036,43840,4.93,-0.01,6,83.28
+2022-2023,AREF-09,Souss-Massa,South-Central,474399,22998,4.85,-0.24,7,83.48
+2022-2023,AREF-10,Guelmim-Oued Noun,South,320687,12892,4.02,-0.75,8,84.53
+2022-2023,AREF-04,Rabat-Sale-Kenitra,Northwest,1041562,32655,3.14,-0.08,9,86.92
+2022-2023,AREF-06,Casablanca-Settat,Coastal-Central,814883,20695,2.54,-0.19,10,90.09
+2022-2023,AREF-12,Dakhla-Oued Ed-Dahab,Sahara-South,355104,8698,2.45,-0.14,11,89.65
+2022-2023,AREF-11,Laayoune-Sakia El Hamra,Sahara-North,486948,11358,2.33,-0.07,12,91.04
+2021-2022,AREF-08,Draa-Tafilalet,Southeast,763977,54212,7.1,0.0,1,77.18
+2021-2022,AREF-07,Marrakech-Safi,Central-South,636943,41185,6.47,-0.25,2,81.39
+2021-2022,AREF-05,Beni Mellal-Khenifra,Central,512060,32531,6.35,-0.23,3,81.79
+2021-2022,AREF-01,Tanger-Tetouan-Al Hoceima,North,686738,38487,5.6,-0.21,4,81.93
+2021-2022,AREF-03,Fes-Meknes,Central-North,376415,19698,5.23,-0.2,5,82.88
+2021-2022,AREF-09,Souss-Massa,South-Central,272308,13847,5.09,-0.41,6,83.14
+2021-2022,AREF-02,Oriental,Northeast,961631,47470,4.94,-0.8,7,82.08
+2021-2022,AREF-10,Guelmim-Oued Noun,South,711441,33942,4.77,0.13,8,84.17
+2021-2022,AREF-04,Rabat-Sale-Kenitra,Northwest,755692,24340,3.22,-0.35,9,87.3
+2021-2022,AREF-06,Casablanca-Settat,Coastal-Central,668509,18264,2.73,-0.28,10,90.33
+2021-2022,AREF-12,Dakhla-Oued Ed-Dahab,Sahara-South,572862,14859,2.59,0.0,11,88.86
+2021-2022,AREF-11,Laayoune-Sakia El Hamra,Sahara-North,795333,19106,2.4,-0.2,12,88.43
+2020-2021,AREF-08,Draa-Tafilalet,Southeast,595652,42276,7.1,,1,78.28
+2020-2021,AREF-07,Marrakech-Safi,Central-South,279916,18818,6.72,,2,79.08
+2020-2021,AREF-05,Beni Mellal-Khenifra,Central,868179,57150,6.58,,3,77.64
+2020-2021,AREF-01,Tanger-Tetouan-Al Hoceima,North,1240550,72058,5.81,,4,80.34
+2020-2021,AREF-02,Oriental,Northeast,290302,16670,5.74,,5,81.42
+2020-2021,AREF-09,Souss-Massa,South-Central,427528,23524,5.5,,6,82.75
+2020-2021,AREF-03,Fes-Meknes,Central-North,413053,22433,5.43,,7,82.08
+2020-2021,AREF-10,Guelmim-Oued Noun,South,532866,24750,4.64,,8,84.28
+2020-2021,AREF-04,Rabat-Sale-Kenitra,Northwest,432295,15449,3.57,,9,86.5
+2020-2021,AREF-06,Casablanca-Settat,Coastal-Central,1242332,37426,3.01,,10,86.52
+2020-2021,AREF-11,Laayoune-Sakia El Hamra,Sahara-North,656102,17074,2.6,,11,87.17
+2020-2021,AREF-12,Dakhla-Oued Ed-Dahab,Sahara-South,822249,21304,2.59,,12,88.27

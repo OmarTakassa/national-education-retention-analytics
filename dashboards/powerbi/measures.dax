@@ -1,0 +1,36 @@
+-- Power BI DAX Measures for National Education Performance & Retention Analytics
+
+Total Enrolled Students = SUM(fact_cohort_retention[enrolled_students])
+
+Total Student Dropouts = SUM(fact_cohort_retention[dropouts_total])
+
+Total Retained Students = SUM(fact_cohort_retention[retained_students])
+
+Weighted Dropout Rate (%) =
+DIVIDE([Total Student Dropouts], [Total Enrolled Students], 0) * 100
+
+Cohort Retention Rate (%) =
+DIVIDE([Total Retained Students], [Total Enrolled Students], 0) * 100
+
+Reintegration Recovery Rate (%) =
+DIVIDE(SUM(fact_cohort_retention[reintegrated_students]), [Total Student Dropouts], 0) * 100
+
+YoY Dropout Delta (pp) =
+VAR CurrentRate = [Weighted Dropout Rate (%)]
+VAR PrevRate =
+    CALCULATE(
+        [Weighted Dropout Rate (%)],
+        FILTER(
+            ALL(dim_academic_year),
+            dim_academic_year[cohort_seq] = MAX(dim_academic_year[cohort_seq]) - 1
+        )
+    )
+RETURN
+IF(ISBLANK(PrevRate), BLANK(), CurrentRate - PrevRate)
+
+Regional Disparity Index =
+DIVIDE(
+    [Weighted Dropout Rate (%)],
+    CALCULATE([Weighted Dropout Rate (%)], ALL(dim_directorate)),
+    1
+)

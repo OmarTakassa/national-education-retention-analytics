@@ -1,0 +1,16 @@
+{
+  "cohorts_analyzed": "2020-2021 to 2025-2026",
+  "regional_directorates_count": 12,
+  "total_cohort_records": 432,
+  "latest_year_enrolled": 8969238,
+  "latest_year_dropouts": 367251,
+  "baseline_2020_dropout_rate_pct": 4.73,
+  "latest_2025_dropout_rate_pct": 4.09,
+  "six_year_dropout_reduction_bps": 64.0,
+  "highest_disparity_aref": "Draa-Tafilalet",
+  "highest_disparity_dropout_pct": 6.83,
+  "lowest_disparity_aref": "Dakhla-Oued Ed-Dahab",
+  "lowest_disparity_dropout_pct": 2.12,
+  "driver_model_r2": 0.7875,
+  "top_dropout_driver": "Lower Secondary Transition Bottleneck"
+}

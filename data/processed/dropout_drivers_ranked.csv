@@ -1,0 +1,7 @@
+feature_code,driver_name,standardized_beta,abs_impact,direction
+is_lower_secondary,Lower Secondary Transition Bottleneck,2.1068,2.1068,Increases Dropout
+is_rural,Rural School Location Exposure,1.7222,1.7222,Increases Dropout
+grade_repetition_pct,Grade Repetition Rate (%),0.782,0.782,Increases Dropout
+boarding_transport_coverage_pct,Boarding & Transport Support Coverage (%),-0.6309,0.6309,Reduces Dropout
+exam_pass_rate_pct,Regional Exam Pass Rate (%),-0.4068,0.4068,Reduces Dropout
+avg_commute_km,Average Student Commute Distance (km),0.2137,0.2137,Increases Dropout
